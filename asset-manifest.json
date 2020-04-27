@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cursor-react-thunk/static/css/main.d1b05096.chunk.css",
-    "main.js": "/cursor-react-thunk/static/js/main.2d2885c8.chunk.js",
-    "main.js.map": "/cursor-react-thunk/static/js/main.2d2885c8.chunk.js.map",
+    "main.js": "/cursor-react-thunk/static/js/main.ea112b69.chunk.js",
+    "main.js.map": "/cursor-react-thunk/static/js/main.ea112b69.chunk.js.map",
     "runtime-main.js": "/cursor-react-thunk/static/js/runtime-main.25980c19.js",
     "runtime-main.js.map": "/cursor-react-thunk/static/js/runtime-main.25980c19.js.map",
     "static/js/2.4d74950e.chunk.js": "/cursor-react-thunk/static/js/2.4d74950e.chunk.js",
     "static/js/2.4d74950e.chunk.js.map": "/cursor-react-thunk/static/js/2.4d74950e.chunk.js.map",
     "index.html": "/cursor-react-thunk/index.html",
-    "precache-manifest.d5157c5e23ab8f5bed19ad9ee7ab3037.js": "/cursor-react-thunk/precache-manifest.d5157c5e23ab8f5bed19ad9ee7ab3037.js",
+    "precache-manifest.6a695d11f16237777154f8e72d9661d6.js": "/cursor-react-thunk/precache-manifest.6a695d11f16237777154f8e72d9661d6.js",
     "service-worker.js": "/cursor-react-thunk/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/cursor-react-thunk/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.4d74950e.chunk.js.LICENSE.txt": "/cursor-react-thunk/static/js/2.4d74950e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.25980c19.js",
     "static/js/2.4d74950e.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2d2885c8.chunk.js"
+    "static/js/main.ea112b69.chunk.js"
   ]
 }
